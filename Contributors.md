@@ -25,6 +25,7 @@ Jyothishwari GP
 - [Luke Stump](https://github.com/LukeStump419)
 - [Dillikumar Deenadayalan] (https://github.com/Dillikumar)
 - [Ajeet Raj](https://github.com/ajeetraj11)
+- [Janarthan P](https://github.com/Janarthana2992)
 - [Mahesh Suthar](https://github.com/sutharmahesh05)
 - [Deepanshu](https://github.com/creator0131)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
